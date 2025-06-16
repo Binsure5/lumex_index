@@ -1,0 +1,218 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "/lumex",
+  "redirects": [
+    {
+      "source": "/lumex",
+      "destination": "/lumex/",
+      "basePath": false,
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^/lumex$"
+    },
+    {
+      "source": "/:file((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/]+\\.\\w+)/",
+      "destination": "/:file",
+      "internal": true,
+      "missing": [
+        {
+          "type": "header",
+          "key": "x-nextjs-data"
+        }
+      ],
+      "statusCode": 308,
+      "regex": "^(?:/((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/]+\\.\\w+))/$"
+    },
+    {
+      "source": "/:notfile((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/\\.]+)",
+      "destination": "/:notfile/",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/\\.]+))$"
+    }
+  ],
+  "headers": [],
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/about",
+      "regex": "^/about(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about(?:/)?$"
+    },
+    {
+      "page": "/about/ceo",
+      "regex": "^/about/ceo(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about/ceo(?:/)?$"
+    },
+    {
+      "page": "/about/history",
+      "regex": "^/about/history(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about/history(?:/)?$"
+    },
+    {
+      "page": "/about/organization",
+      "regex": "^/about/organization(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about/organization(?:/)?$"
+    },
+    {
+      "page": "/about/vision",
+      "regex": "^/about/vision(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about/vision(?:/)?$"
+    },
+    {
+      "page": "/business",
+      "regex": "^/business(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/business(?:/)?$"
+    },
+    {
+      "page": "/business/auto-parts",
+      "regex": "^/business/auto\\-parts(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/business/auto\\-parts(?:/)?$"
+    },
+    {
+      "page": "/business/battery-housing",
+      "regex": "^/business/battery\\-housing(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/business/battery\\-housing(?:/)?$"
+    },
+    {
+      "page": "/business/welding-robot",
+      "regex": "^/business/welding\\-robot(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/business/welding\\-robot(?:/)?$"
+    },
+    {
+      "page": "/careers",
+      "regex": "^/careers(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/careers(?:/)?$"
+    },
+    {
+      "page": "/careers/benefits",
+      "regex": "^/careers/benefits(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/careers/benefits(?:/)?$"
+    },
+    {
+      "page": "/careers/jobs",
+      "regex": "^/careers/jobs(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/careers/jobs(?:/)?$"
+    },
+    {
+      "page": "/company",
+      "regex": "^/company(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/company(?:/)?$"
+    },
+    {
+      "page": "/equipment",
+      "regex": "^/equipment(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/equipment(?:/)?$"
+    },
+    {
+      "page": "/innovation/patents",
+      "regex": "^/innovation/patents(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/innovation/patents(?:/)?$"
+    },
+    {
+      "page": "/innovation/research",
+      "regex": "^/innovation/research(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/innovation/research(?:/)?$"
+    },
+    {
+      "page": "/pr",
+      "regex": "^/pr(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pr(?:/)?$"
+    },
+    {
+      "page": "/pr/news",
+      "regex": "^/pr/news(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pr/news(?:/)?$"
+    },
+    {
+      "page": "/pr/press",
+      "regex": "^/pr/press(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pr/press(?:/)?$"
+    },
+    {
+      "page": "/projects",
+      "regex": "^/projects(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/projects(?:/)?$"
+    },
+    {
+      "page": "/strategy",
+      "regex": "^/strategy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/strategy(?:/)?$"
+    },
+    {
+      "page": "/technology",
+      "regex": "^/technology(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/technology(?:/)?$"
+    },
+    {
+      "page": "/turnkey",
+      "regex": "^/turnkey(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/turnkey(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "RSC",
+    "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+    "prefetchHeader": "Next-Router-Prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "Next-Router-Segment-Prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  },
+  "rewrites": {
+    "beforeFiles": [
+      {
+        "source": "/lumex//_next/:path+",
+        "destination": "/lumex/_next/:path+",
+        "regex": "^/lumex//_next(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))(?:/)?$"
+      }
+    ],
+    "afterFiles": [],
+    "fallback": []
+  }
+}

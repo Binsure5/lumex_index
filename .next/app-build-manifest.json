@@ -1,0 +1,190 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/_not-found/page-e4f6e506589c3816.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/css/484726e2e26362f7.css",
+      "static/chunks/app/layout-d1d246e1bc9d7a08.js"
+    ],
+    "/about/ceo/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/about/ceo/page-962707e7a5725756.js"
+    ],
+    "/about/history/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/about/history/page-9852238d010314ed.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/874-6c932be8bed200c7.js",
+      "static/chunks/app/about/page-dc717c10ba3282a5.js"
+    ],
+    "/about/organization/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/about/organization/page-99d9a81bbb875682.js"
+    ],
+    "/business/auto-parts/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/business/auto-parts/page-33dedd52597189e4.js"
+    ],
+    "/business/battery-housing/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/business/battery-housing/page-9b3b5c97a069f4d1.js"
+    ],
+    "/about/vision/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/about/vision/page-0d3717ac1c08e639.js"
+    ],
+    "/business/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/business/page-8800f90051a22c05.js"
+    ],
+    "/careers/benefits/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/careers/benefits/page-782102bf8f950d0d.js"
+    ],
+    "/careers/jobs/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/careers/jobs/page-825573528d0879b4.js"
+    ],
+    "/business/welding-robot/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/business/welding-robot/page-610a40d0341afd12.js"
+    ],
+    "/careers/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/874-6c932be8bed200c7.js",
+      "static/chunks/app/careers/page-ed053e6f55010689.js"
+    ],
+    "/equipment/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/equipment/page-39128436bce03883.js"
+    ],
+    "/company/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/company/page-d4bb1cfadb53d5ca.js"
+    ],
+    "/innovation/patents/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/innovation/patents/page-34d13012d9e8e21d.js"
+    ],
+    "/innovation/research/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/innovation/research/page-d0e69cb3dac61e7f.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/page-b6df044f581d6298.js"
+    ],
+    "/pr/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/874-6c932be8bed200c7.js",
+      "static/chunks/app/pr/page-53076d96fc9f79b9.js"
+    ],
+    "/pr/news/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/pr/news/page-beba0f527b6d6d62.js"
+    ],
+    "/pr/press/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/pr/press/page-645a48412f2d1ffa.js"
+    ],
+    "/strategy/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/strategy/page-5cf9740064e597b4.js"
+    ],
+    "/projects/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/projects/page-7f1237eb468b07c2.js"
+    ],
+    "/technology/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/technology/page-983defac754d12e1.js"
+    ],
+    "/turnkey/page": [
+      "static/chunks/webpack-40642ca213de9e3f.js",
+      "static/chunks/4bd1b696-1b9dda869d12e424.js",
+      "static/chunks/684-fc4110479f85c9e4.js",
+      "static/chunks/main-app-1c43f6dd8945da36.js",
+      "static/chunks/app/turnkey/page-74e23be798d68273.js"
+    ]
+  }
+}
